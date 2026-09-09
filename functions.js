@@ -31,7 +31,7 @@ getAllBooks();
 //return  return yordamida funksiayni uziga malumot biriktirib quyishimiz mumkin return bu teng degani
 
 let giveBooks = (name)=>{
-    return 'salom'
-
+   
 }
-giveBooks('salom');
+giveBooks();
+//
