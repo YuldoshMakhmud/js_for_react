@@ -36,3 +36,10 @@ let giveBooks = (name)=>{
 giveBooks();
 //
 
+//parametrlar  funksiya ichida ishlatiladigan malumotlar
+let giveBook = (name,age)=>{
+    console.log(`Salom meninig ismim ${name}  meniing yoshim ${age} `);
+}
+giveBook("maxmud",24);
+// return va parametrlar birhil ishlatiladi return yordamida funksiya ichidagi malumotni uziga biriktirib qaytaradi va parametrlar yordamida funksiya ichidagi malumotlarni uziga biriktirib qaytaradi
+
