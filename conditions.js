@@ -30,4 +30,3 @@ switch (day) {
 }   
 
 // if else va switch case farqi if else da shartlar bir hil buladi lekin switch case da shartlar bir hil bulmaydi   
-    
